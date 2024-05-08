@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-image: url(/img/[image]\ -\ 2348121.jpeg);
+  background-size: 100%;
+  background-position-y: 15%;
+}
+.main {
+  font-size: 25px;
+  font-weight: bolder;
+  font-family: "Jersey 10", sans-serif;
+  border: rgb(220, 111, 220) 4px solid;
+  padding: 33px;
+  background-color: rgba(255, 105, 180, 0.521);
+}
+img {
+  height: auto;
+  width: 300px;
+}
